@@ -1,5 +1,6 @@
 # Hacksmiths News Summarizer
 
+This project was developed by me and [Elbert](https://github.com/elbertronnie) as a part of Flickr 25 Hackathon, and it secured first position in the same. The description of the project is as follows:
 An AI agent that can autononously create news summaries by scrapping the news websites and using LLMs to generate short summaries of the news articles. The summaries of the news articles are published at [https://hacksmiths-demo-elbyronn.wasmer.app](https://hacksmiths-demo-elbyronn.wasmer.app).
 
 ## Features
